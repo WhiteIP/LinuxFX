@@ -19,7 +19,7 @@ LinuxFX est un est un système d'exploitation basé sur la distribution Ubuntu l
 >- La documentation n'indique que les applications installés sur le système d'exploitation
 >- **Possibilité d'installer** la représentation graphique de **Windows 10 ou alors de Windows 11**
 
-## WindowsFX vs LinuxFC
+## WindowsFX vs LinuxFX
 >Il y a deux iso différentes mais je ne trouve **pas de différences**, je l'ai les aies installés toutes les deux mais **aucune différence côté expérience utilisateur**. Il n'y a aucune différence au niveau de la distribution et sa version.
 
 ## Pourquoi LinuxFX
@@ -40,4 +40,5 @@ Le problème c'est qu'après une installation c'étais lent. **La navigation sur
 ### Source
 
 [Lien du site LinuxFX](https://linuxfx.org)  
-[Lien du site WindowsFX](https://windowsfx.org)
+[Lien du site WindowsFX](https://windowsfx.org)  
+[Lien du site Application](https://docs.kde.org/)
